@@ -1,3 +1,4 @@
+/*CSS file - describes how HTML elements are to be displayed on screen, paper, or in other media*/
 .nav-link:hover
 {
     background-color:#0082D8;
@@ -16,3 +17,4 @@
 .mydivstyle:hover{
     transform:translateY(-20px);
 }
+/*end of the CSS file*/
